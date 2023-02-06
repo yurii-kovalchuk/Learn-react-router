@@ -1,13 +1,31 @@
 {
   "files": {
     "main.css": "/learn-react-router/static/css/main.93f80f61.css",
-    "main.js": "/learn-react-router/static/js/main.e9b7024d.js",
+    "main.js": "/learn-react-router/static/js/main.97a37092.js",
+    "static/js/964.fd5323d0.chunk.js": "/learn-react-router/static/js/964.fd5323d0.chunk.js",
+    "static/js/266.bf8a85b2.chunk.js": "/learn-react-router/static/js/266.bf8a85b2.chunk.js",
+    "static/js/101.2ea6b49c.chunk.js": "/learn-react-router/static/js/101.2ea6b49c.chunk.js",
+    "static/js/727.88939479.chunk.js": "/learn-react-router/static/js/727.88939479.chunk.js",
+    "static/js/150.3a1e05ed.chunk.js": "/learn-react-router/static/js/150.3a1e05ed.chunk.js",
+    "static/js/720.f4d26da8.chunk.js": "/learn-react-router/static/js/720.f4d26da8.chunk.js",
+    "static/js/357.fd4a6e58.chunk.js": "/learn-react-router/static/js/357.fd4a6e58.chunk.js",
+    "static/js/922.5b9213c8.chunk.js": "/learn-react-router/static/js/922.5b9213c8.chunk.js",
+    "static/js/128.f09c285e.chunk.js": "/learn-react-router/static/js/128.f09c285e.chunk.js",
     "index.html": "/learn-react-router/index.html",
     "main.93f80f61.css.map": "/learn-react-router/static/css/main.93f80f61.css.map",
-    "main.e9b7024d.js.map": "/learn-react-router/static/js/main.e9b7024d.js.map"
+    "main.97a37092.js.map": "/learn-react-router/static/js/main.97a37092.js.map",
+    "964.fd5323d0.chunk.js.map": "/learn-react-router/static/js/964.fd5323d0.chunk.js.map",
+    "266.bf8a85b2.chunk.js.map": "/learn-react-router/static/js/266.bf8a85b2.chunk.js.map",
+    "101.2ea6b49c.chunk.js.map": "/learn-react-router/static/js/101.2ea6b49c.chunk.js.map",
+    "727.88939479.chunk.js.map": "/learn-react-router/static/js/727.88939479.chunk.js.map",
+    "150.3a1e05ed.chunk.js.map": "/learn-react-router/static/js/150.3a1e05ed.chunk.js.map",
+    "720.f4d26da8.chunk.js.map": "/learn-react-router/static/js/720.f4d26da8.chunk.js.map",
+    "357.fd4a6e58.chunk.js.map": "/learn-react-router/static/js/357.fd4a6e58.chunk.js.map",
+    "922.5b9213c8.chunk.js.map": "/learn-react-router/static/js/922.5b9213c8.chunk.js.map",
+    "128.f09c285e.chunk.js.map": "/learn-react-router/static/js/128.f09c285e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93f80f61.css",
-    "static/js/main.e9b7024d.js"
+    "static/js/main.97a37092.js"
   ]
 }
