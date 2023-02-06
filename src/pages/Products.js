@@ -3,7 +3,7 @@ import { ProductList } from '../components/ProductList';
 import { SearchBox } from 'components/Searchbox';
 import { getProducts } from '../fakeAPI';
 
-export const Products = () => {
+const Products = () => {
   const products = getProducts();
   const [searchParams, setSearchParams] = useSearchParams();
   const productName = searchParams.get('name') ?? '';
@@ -14,7 +14,6 @@ export const Products = () => {
 
   const updateQueryString = name => {
     const nextParams = name !== '' ? { name } : {};
-    console.log(nextParams);
     setSearchParams(nextParams);
   };
 
@@ -25,3 +24,5 @@ export const Products = () => {
     </main>
   );
 };
+
+export default Products;
