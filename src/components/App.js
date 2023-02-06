@@ -1,4 +1,6 @@
 import { Routes, Route } from 'react-router-dom';
+import { SharedLayout } from './SharedLayout';
+
 import { Home } from '../pages/Home';
 import { About } from '../pages/About';
 import { Products } from '../pages/Products';
@@ -7,7 +9,6 @@ import { NotFound } from '../pages/NotFound';
 import { Mission } from './Mission';
 import { Team } from './Team';
 import { Reviews } from './Reviews';
-import { SharedLayout } from './SharedLayout';
 
 export const App = () => {
   return (
